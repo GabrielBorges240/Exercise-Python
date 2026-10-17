@@ -1,0 +1,36 @@
+# ============================================================
+# INDEX: PSEUDOCÓDIGO (PORTUGOL) -> PYTHON
+# ============================================================
+
+# ---------- ENTRADA E SAÍDA ----------
+# leia(x)                  -> pede um valor ao usuário     -> x = input()
+# escreva(x)               -> mostra algo na tela          -> print(x)
+# (para número, use int(input()) pois input() devolve texto)
+
+# ---------- VARIÁVEIS ----------
+# x <- 5                   -> guarda um valor              -> x = 5
+
+# ---------- DECISÕES ----------
+# se ... então             -> decisão                      -> if ...:
+# senão se                 -> outra condição               -> elif ...:
+# senão                    -> caso contrário               -> else:
+# fim se                   -> fecha a decisão              -> (a indentação faz isso)
+
+# ---------- REPETIÇÕES ----------
+# enquanto ... faça        -> repete enquanto for verdade  -> while ...:
+# para cada x em lista     -> percorre os itens            -> for x in lista:
+# repita ... até           -> repete até a condição        -> while True: com break
+# interrompa               -> sai do laço                  -> break
+
+# ---------- LISTAS ----------
+# adicionar x na lista     -> coloca no fim                -> lista.append(x)
+# remover o último         -> tira o último item           -> lista.pop()
+# tamanho da lista         -> conta os itens               -> len(lista)
+# ordenar a lista          -> ordena (decrescente)         -> lista.sort(reverse=True)
+# x está na lista?         -> verifica se existe           -> if x in lista:
+
+# ---------- LÓGICA E COMPARAÇÃO ----------
+# e, ou, não               -> lógica                       -> and, or, not
+# igual, diferente         -> comparação                   -> ==, !=
+# maior, menor             -> comparação                   -> >, <, >=, <=
+# resto da divisão         -> usado para par/ímpar         -> x % 2 == 0
