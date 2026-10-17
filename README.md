@@ -32,4 +32,4 @@ Gustavo Guanabara.
 
 ## Author
 
-Your Name - [GitHub](https://github.com/GabrielBorges240)
+[GitHub](https://github.com/GabrielBorges240)
